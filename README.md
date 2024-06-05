@@ -1,10 +1,13 @@
+#VanLife - Travel Van Rental App
+
 #My process
-Built with
-Semantic HTML5 markup
-CSS custom properties
-React.JS
-Flexbox
-React Router Dom
-Mirage.JS
-Useful resources
-ReactJS - How to set up a local development environment on your computer
+<br>
+<ul>
+
+  <li>Semantic HTML5 markup</li>
+  <li>CSS custom properties</li>
+  <li>React.JS</li>
+  <li>Flexbox</li>
+  <li>React Router Dom</li>
+
+</ul>
